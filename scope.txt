@@ -1,0 +1,2 @@
+id-staking-v2/contracts/IIdentityStaking.sol
+id-staking-v2/contracts/IdentityStaking.sol
